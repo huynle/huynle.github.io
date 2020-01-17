@@ -1,0 +1,114 @@
+/*this is my future css mods*/
+
+/*.bio{
+	color: rgb(93, 218, 0);
+}*/
+
+p.myclass {
+	color: green;
+}
+
+bioelement {
+	font-size: 2.0em;
+}
+
+#myid {
+    text-align: center;
+    color: red;
+}
+
+/* Lists */
+ul, ol, dl {
+  margin-top: 0;
+  padding-left: 0;
+  margin-bottom: 1rem;
+  list-style-type: none;
+}
+
+.brand {
+  display: flex;
+  justify-content: left;
+  position: absolute;
+  width: 100%;
+  /*max-width: 100px;*/
+  /*margin-left: -2em;*/
+
+  /*left: 0;*/
+  /*top: 0;*/
+}
+
+.padding-0 {
+    padding: 0;
+    /* box-sizing: border-box; */
+}
+
+.post-header-cover {
+    /* display : block; */
+    margin: auto;
+    /* margin-left: auto; */
+    /* margin-right: auto; */
+
+    /* display: flex; */
+    /* vertical-align:middle; */
+    /* text-align:center; */
+    /* position: relative; */
+    text-align: center;
+    width: 100%;
+    /* padding: calc(55px + 30px) 0 30px; */
+    /* -webkit-transition: -webkit-transform .25s ease-in-out; */
+}
+
+.child-img {
+    /* display : block; */
+    width: 100%;
+    margin : auto;
+    /* margin-left: auto; */
+    /* margin-right: auto; */
+    /* max-width: 100%; */
+    /* max-height: 100%; */
+}
+
+/*.logo {
+  max-width: 100px;
+}*/
+
+/*.name {
+  padding-top: 20px;
+  font-size: 28px;
+  font-family: 'Nexa Bold', 'Helvetica Neue', 'Arial', sans-serif;
+  letter-spacing: -0.005rem;
+  text-transform: uppercase;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+  color: #333333;
+  color: #555555;*/
+/*}*/
+
+/*.navbar-default {
+  width: 100%;
+  background-color: rgba(0,0,0,0.0);
+}*/
+
+/*.navbar-default {
+  color: #555555;
+  font-weight: 500;
+  font-size: 14px;
+  text-transform: uppercase;
+  font-family: 'Raleway', 'Helvetica Neue', 'Arial', sans-serif;
+  -webkit-transition: color 0.1s cubic-bezier(0.47, 0, 0.75, 0.72);
+  -moz-transition: color 0.1s cubic-bezier(0.47, 0, 0.75, 0.72);
+  -ms-transition: color 0.1s cubic-bezier(0.47, 0, 0.75, 0.72);
+  -o-transition: color 0.1s cubic-bezier(0.47, 0, 0.75, 0.72);
+}*/
+
+/*
+.brand-centered .navbar-brand {
+  display: flex;
+  align-items: center;
+}*/
+
+/*.container .content .groupby {
+  margin-top: 1em;
+  padding-left: 0.5em;
+}*/
