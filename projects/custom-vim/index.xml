@@ -4,4 +4,8 @@ Sync Tmux colors to sync with Vim change of colors is synced with vim. So backgr
 Checkout his configurations - https://github.com/rafi/vim-config
 What is Dein? and Denite? Dein is a Vim package mananger. How does it work?
 Reading log messages :messages will show the messages
-What is Deoplete Completion!</description></item></channel></rss>
+What is Deoplete Completion!</description></item><item><title>Vim Notes</title><link>https://www.huynle.com/projects/vim-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.huynle.com/projects/vim-notes/</guid><description>[TOC]
+Config for 7.4 https://github.com/rafi/vim-config/tree/88c2ce2fe61470b8f6a147e227c77229a0b2c76f
+Cool moves for bulk editing Applying normal mode to a range
+33,39normal 2wdtI
+33 FluidInterfaceBundle chcInterface; //!&amp;lt; *io (--) Interface bundle for the interface at CHCs */ 34 FluidInterfaceBundle or303Interface; //!&amp;lt; *io (--) Interface bundle for the interface at OR303 */ 35 FluidInterfaceBundle uif01Interface; //!&amp;lt; *io (--) Interface bundle for the interface at UIF01 */ 36 FluidInterfaceBundle uif02Interface; //!&amp;lt; *io (--) Interface bundle for the interface at UIF02 */ 37 FluidInterfaceBundle rv01Interface; //!</description></item></channel></rss>
